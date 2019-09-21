@@ -4,7 +4,7 @@ title: "A Gap A Day"
 categories: [life, philosophy]
 ---
 
-Today I stumbled upon this ![status update](/assets/img/whatsapp-1.png)
+Today I stumbled upon this ![status update](/assets/img/whatsapp_1.png)
 which really got me thinking what are these gaps they are talking about.
 In my opinion I believe I've taken a gap of a year or two in my short existence
 on this planet and would like to share my experience on what I think a gap should be.
